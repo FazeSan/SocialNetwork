@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+.top-bar { 
+	background-color: #1C246E;
+	line-height: 200px;
+	color:white;
+	font-size:3em;
+	text-align:center;
+}
+
+.spacing {
+	height:70px;
+}
+
+.home_form {
+	padding:20px;
+}
+
+.home_table_connection {
+	border-spacing: 20px;
+	border-collapse: separate;
+	padding-left:30px;
+}
+
+
+.home_table_submit {
+	margin-left:117px;
+	margin-right:117px;
+}
